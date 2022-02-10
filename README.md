@@ -4,7 +4,7 @@
 
 <p>Esse é um jogo da memória feito como forma de aprofundamento em javascript puro, exercitando funções, callbacks, etc.</p>
 <p>📝 O jogo possui:</p>
- <li>Um timer de contagem regressiva</li>
+ <li>Um timer com contagem regressiva de cinco minutos</li>
  <li>10 pares de cartas para serem descobertas</li>
  <li>Bom jogo!</li>
 
