@@ -18,9 +18,9 @@
 <br>
 <h2>👷 Como testar? </h2>
 <h3>Entre com o seguinte link: </h3>
-<a href="https://johnatanso.github.io/jogo-da-memoria">https://johnatanso.github.io/jogo-da-memoria</a>
+<a href="https://johnatanso.github.io/JOGO-DA-MEMORIA/">https://johnatanso.github.io/JOGO-DA-MEMORIA/</a>
 <h3>Ou</h3>
-<li> Clone o repositório com: git clone https://github.com/teteusAraujo/jogo-da-memoria"
+<li> Clone o repositório com: git clone https://github.com/johnatanSO/JOGO-DA-MEMORIA"
 <li> Entre em uma IDE de sua preferência 
 <li> Execute o servidor ou use um puglin que crie um servidor
 
