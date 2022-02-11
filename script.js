@@ -125,8 +125,5 @@ function timer(duration,display){
 
 
 function restart(){
-    game.clearCards()
-    startGame()
-    timeOutDisplay.style.display = 'none'
-    gameOverLayer.style.display = 'none'
+    location.reload()
 }

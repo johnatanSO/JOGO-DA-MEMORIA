@@ -9,7 +9,6 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction:column;
-    height: 100%;
     background-color:rgb(202, 202, 202);
 }
 h1{
@@ -31,8 +30,6 @@ h1{
     cursor:pointer
 }
 .cardFront, .cardBack{
-    width:100%;
-    height:100%;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -44,15 +41,22 @@ h1{
 .cardFront{
     background-color:#101c2c;
     transform: rotateY(180deg);
+    width: 100%;
+    height:100%;
 }
 .cardBack{
     background-color:rgb(255, 0, 55);
     font-size: 4vh;
     color: #101c2c;
+    width: 100%;
+    height:100%;
     /* display:none */
 }
 .flip{
     transform: rotateY(180deg);
+}
+.icon{
+    width: 12vh;
 }
 
 /* ---------------------------- */
