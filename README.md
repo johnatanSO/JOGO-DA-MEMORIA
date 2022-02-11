@@ -1,4 +1,4 @@
-<h1 align="center">Jogo da memória </h1>
+<h1 align="center">🎮 Jogo da memória </h1>
 
 <h3> 💻 Sobre o projeto</h3>
 
@@ -25,8 +25,14 @@
 <li> Execute o servidor ou use um puglin que crie um servidor
 
 <br>
- <h2>🖼 Imagem da tela de login: </h2>
-<img width="80%" src="https://i.pinimg.com/originals/37/f2/79/37f2791c41420acece8498e7f01938f6.png">
+ <h2>🖼 Imagem do tabuleiro: </h2>
+<img width="80%" src="images/jogo-da-memoria.png">
+ 
+ <h2>🖼 Imagem em jogo: </h2>
+<img width="80%" src="images/in-game.png">
+ 
+ <h2>🖼 Imagem do jogo finalizado: </h2>
+<img width="80%" src="images/fim-de-jogo.png">
 
 
 <div>
